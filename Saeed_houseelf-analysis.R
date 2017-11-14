@@ -11,6 +11,7 @@ read.csv("data/houseelf_earlength_dna_data.csv")
 dataa <- read.csv("data/houseelf_earlength_dna_data_1.csv")
 print(dataa)
 
+
 library("stringr")
 
 gc_cont<- function(GC){
